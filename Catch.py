@@ -1,6 +1,7 @@
 #a and b are object far away at certain dist if b start moving with certian speed then what should
 # be speed of a to catch b at 1/3 of dist 
 #speed = dist/time
+#most useless code i have ever built
 
 def catch(in_dist,mov_speed):
     onethr = in_dist*0.3
